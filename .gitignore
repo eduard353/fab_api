@@ -1,0 +1,7 @@
+/.idea
+/venv
+/api/migrations
+/api/__pycache__
+/fabrique_api/__pycache__
+/__pycache__
+
